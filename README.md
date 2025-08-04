@@ -1,6 +1,7 @@
 1. run `npm ci`   
 2. run `npx lingui extract`   
-3. run `npx lingui compile --typescript`   
+3. run `npx lingui compile --typescript`  
+4. run `npm run dev` 
    
 Messages from src/page.tsx are not translated, unless they writen in a single line.   
 Don't work:   
